@@ -2,6 +2,9 @@
 
 # Documentations for Team Hexen Serverside
 Backdooring Documentation: https://github.com/snowylovesu/hexen/blob/main/BACKDOORING.md
+
 Module Scripting Documentation: soon
 
-made with ♡ in scotland
+---
+
+made with ♡ in scotland, united kingdom
